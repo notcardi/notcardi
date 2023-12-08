@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notcardi
 - notcard on youtube
 - streamer
-- idk
+- also the account for notcat studios (public code here)
 
