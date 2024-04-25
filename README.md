@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @notcardi
 - notcard on youtube
 - streamer
-- also the account for notcat studios (public code here)
-
+- linux (mx because i have no idea how to set up arch)
