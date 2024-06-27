@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @notcardi
 - notcard on youtube
 - streamer
-- linux (gentoo)
+- linux (artix btw)
