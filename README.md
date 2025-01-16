@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @notcardi
 - notcard on youtube
 - streamer
-- linux (artix btw)
+- linux (i use arch btw)
